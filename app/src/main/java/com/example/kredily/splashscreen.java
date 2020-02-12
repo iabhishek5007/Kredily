@@ -37,5 +37,7 @@ public class splashscreen extends AppCompatActivity {
         };
         // start thread
         background.start();
+
+        //just to push on git
     }
 }
